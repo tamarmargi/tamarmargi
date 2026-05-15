@@ -65,4 +65,4 @@ Mahat — Beit Yaakov Jerusalem (2024–2026)
 ## Contact
 
 📧 tamar48719@gmail.com  
-🔗 [GitHub Profile](https://github.com/Tamar8719?utm_source=chatgpt.com)
+🔗 [GitHub Profile](https://github.com/Tamar8719)
