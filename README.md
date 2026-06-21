@@ -1,68 +1,82 @@
-# Tamar Margi
+# Hi, I'm Tamar Margi 👋
 
-Full Stack Developer
+Full Stack Developer specializing in Angular, .NET, and AI-powered development.
 
-Building modern web applications with clean architecture, scalable backend systems, and modern frontend technologies.
+Currently developing enterprise applications using Angular and .NET while leveraging modern AI technologies and development tools to build efficient and scalable solutions.
+
+Passionate about software architecture, clean code, problem solving, and continuous learning.
 
 ---
 
-## Technologies
+## 🚀 Tech Stack
 
 **Frontend**  
-Angular • React • JavaScript • TypeScript • HTML • CSS • Bootstrap
+Angular • React • TypeScript • JavaScript • HTML • CSS • Bootstrap
 
 **Backend**  
-C# • .NET Core • ASP.NET Web API • Node.js • Python • Django • Java
+C# • .NET Core • ASP.NET Web API • Node.js • Python • Django
 
 **Databases**  
-SQL Server • MongoDB • SQLite • Redis
+SQL Server • MongoDB • Redis • SQLite
 
-**Architecture & Tools**  
-Microservices • REST • GraphQL • gRPC • RabbitMQ • Git • Azure DevOps • Docker
+**AI & Modern Development**  
+LLMs • Prompt Engineering • Autonomous Agents • MCP • GitHub Copilot • Cursor • Amazon Q
 
-**AI**  
-Autonomous Agents • MCP • Prompt Engineering • GitHub Copilot • Cursor • Amazon Q
-
----
-
-## Experience
-
-### Ministry of Environmental Protection — Full Stack Developer Intern (2026)
-Development of enterprise information systems using Angular, .NET Core, Web API, SQL Server, and Redis.
-
-Working in Agile environments with Azure DevOps, Git workflows, Pull Requests, and collaboration with product and design teams using Figma.
-
-Focused on performance, maintainability, clean code, and user experience.
+**Tools**  
+Git • Azure DevOps • Visual Studio • VS Code • PyCharm • Figma
 
 ---
 
-## Featured Projects
+## 💼 Experience
 
-### Restaurant Ordering System
-Full Stack ordering platform built with React, Node.js, and MongoDB including authentication, admin panel, and nested schemas.
+### Full Stack Developer Intern
+**Ministry of Environmental Protection (2026)**
 
-### Chinese Sales Website
-Sales management system developed with Angular and C# .NET using SQL Server and Three-Tier Architecture.
-
-### Guess Who Game
-Interactive JavaScript game with game state management and LocalStorage support.
-
-### Tipat Halav Database
-Relational SQL database system for managing vaccinations, inventory, and clinic records.
-
-### Team & Task Management System
-Management platform developed with Python and Django.
+- Developing enterprise systems using Angular 21 and .NET Core.
+- Working with SQL Server, Redis, Azure DevOps, and Git.
+- Collaborating in Agile development environments.
+- Focusing on clean architecture, maintainability, and performance.
 
 ---
 
-## Education
+## 📌 Featured Projects
 
-Software Engineering Practical Degree  
-Mahat — Beit Yaakov Jerusalem (2024–2026)
+### 🍽️ Restaurant Ordering System
+React • Node.js • MongoDB
+
+Full Stack ordering platform with authentication, administration panel, and customizable menu items.
+
+🔗 Repository: https://github.com/tamarmargi/node-react-project
 
 ---
 
-## Contact
+### 🎟️ Chinese Sales Management System
+Angular • C# • SQL Server
+
+Three-tier architecture application for managing sales events.
+
+🔗 Repository: https://github.com/tamarmargi/chinese-sale-platform
+
+---
+
+### 👥 Team & Task Management System
+Python • Django
+
+Employee and task management platform.
+
+🔗 Repository: https://github.com/tamarmargi/team-task-system
+
+---
+
+### 🎮 Guess Who Game
+JavaScript
+
+Interactive browser game with LocalStorage support.
+
+🔗 Repository: https://github.com/tamarmargi/javascript-guess-who-game
+---
+
+## 📫 Contact
 
 📧 tamar48719@gmail.com  
-🔗 [GitHub Profile](https://github.com/Tamar8719)
+🔗 github.com/tamarmargi
