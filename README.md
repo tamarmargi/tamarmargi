@@ -74,6 +74,7 @@ JavaScript
 Interactive browser game with LocalStorage support.
 
 🔗 Repository: https://github.com/tamarmargi/javascript-guess-who-game
+
 ---
 
 ## 📫 Contact
